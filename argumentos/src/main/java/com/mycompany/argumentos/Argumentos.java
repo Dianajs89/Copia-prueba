@@ -30,8 +30,6 @@ public class Argumentos {
                 System.out.println("Argumento equivocado");
                 break;
             }
-        }
-                   
-        
+        }  
     }
 }
